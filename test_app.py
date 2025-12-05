@@ -1,5 +1,5 @@
 from app import add
  
 def test_add():
-    assert add(12, 13) == 25
+    assert add(11, 14) == 25
  
